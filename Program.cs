@@ -27,6 +27,7 @@ namespace W2_E3
                     case 'i':
                     case 'o':
                     case 'u':
+                        //When a vowel is found it adds to total
                         total = total + 1;
                         break;
                 }
