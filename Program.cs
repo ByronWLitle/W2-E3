@@ -10,7 +10,7 @@ namespace W2_E3
     {
         static void Main(string[] args)
         {
-            //Initialize variables
+            //Initialize variables to hold values
             int total = 0;
             //Prompts user to enter a sentence
             Console.Write("Enter a string: ");
